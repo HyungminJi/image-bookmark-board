@@ -13,7 +13,7 @@ const App: React.FC = () => {
           <Link to="/bookmarks" className="bookmark-button">Bookmarks</Link>
         </header>
         <Routes>
-          <Route path="/" element={<SearchPage />} />
+          <Route path="/image-bookmark-board" element={<SearchPage />} />
           <Route path="/bookmarks" element={<BookmarkPage />} />
         </Routes>
       </div>
