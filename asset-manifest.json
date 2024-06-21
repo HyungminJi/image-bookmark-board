@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-bookmark-board/static/css/main.75072c89.css",
+    "main.js": "/image-bookmark-board/static/js/main.ed21cfc4.js",
+    "index.html": "/image-bookmark-board/index.html",
+    "main.75072c89.css.map": "/image-bookmark-board/static/css/main.75072c89.css.map",
+    "main.ed21cfc4.js.map": "/image-bookmark-board/static/js/main.ed21cfc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75072c89.css",
+    "static/js/main.ed21cfc4.js"
+  ]
+}
