@@ -1,0 +1,16 @@
+body {
+	font-family: Arial, sans-serif;
+}
+  
+header {
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+	background-color: #282c34;
+	color: white;
+}
+  
+a {
+	color: white;
+	text-decoration: none;
+}

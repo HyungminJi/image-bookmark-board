@@ -1,0 +1,17 @@
+.image-list {
+	display: flex;
+	flex-wrap: wrap;
+}
+  
+.image-item {
+	margin: 10px;
+	position: relative;
+}
+  
+.bookmark-icon {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	cursor: pointer;
+	font-size: 24px;
+}

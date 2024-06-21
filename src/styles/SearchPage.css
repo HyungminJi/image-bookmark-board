@@ -1,0 +1,31 @@
+.search-page {
+	padding: 20px;
+}
+  
+.header {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+  
+.search-bar input {
+	padding: 10px;
+	margin-right: 10px;
+	font-size: 16px;
+}
+  
+.pagination {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+  
+.pagination button {
+	margin: 0 5px;
+	padding: 10px 15px;
+	cursor: pointer;
+}
+  
+.pagination .active {
+	font-weight: bold;
+}

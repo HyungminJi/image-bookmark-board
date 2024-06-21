@@ -1,0 +1,13 @@
+.bookmark-page {
+	padding: 20px;
+}
+  
+.bookmark-list {
+	display: flex;
+	flex-wrap: wrap;
+}
+  
+.bookmark-item {
+	margin: 10px;
+	text-align: center;
+}
